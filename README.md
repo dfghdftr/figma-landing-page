@@ -67,14 +67,11 @@ figma-landing-page/
 https://www.figma.com/design/lVDnJX1EasB314jm8uo9YI/Untitled?node-id=0-1&t=8JGae012pZTMoPTN-1
 ### GitHub Repository
 
-https://github.com/dfghdftr/figma-landing-page.git
+https://github.com/dfghdftr/figma-landing-page
 
 ### GitHub Pages
 
-Вставте посилання на опублікований сайт тут:
-
-[Посилання на GitHub Pages]
-
+https://dfghdftr.github.io/figma-landing-page/
 ---
 
 ## Статус проєкту
